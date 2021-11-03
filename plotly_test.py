@@ -19,7 +19,7 @@ for year in df['year'].unique():
 
 value_options = [{'label': 'Total', 'value': 'PERMITS'}]
 value_options.append({'label':'Work', 'value': 'PERM_WORK'})
-value_options.append({'label':'Family reunification', 'value': 'PERM_FAM'})g
+value_options.append({'label':'Family reunification', 'value': 'PERM_FAM'})
 value_options.append({'label':'Protection', 'value': 'PERM_OTHER'})
 value_options.append({'label':'Education', 'value': 'PERM_EDU'})
 
